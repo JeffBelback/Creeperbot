@@ -1,3 +1,3 @@
 Documentation to come...
 
-![picture](images/IMAG0597s.jpg)
+![picture](https://raw.github.com/jeffbelback/creeperbot/master/images/IMAG0597s.jpg)
